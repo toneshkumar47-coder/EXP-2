@@ -1,9 +1,8 @@
 ## EXPERIMENT NO. 2 – OCC AND LOAD CHARACTERISTICS OF D.C. SHUNT GENERATOR
 
-| **Name:TONESH K| | **Reg. No.: 26009529
-**Date:** | | **Batch / Section:** | |
+Name:TONESH K
+Reg. No.: 26009529
 
----
 
 ## AIM
 
